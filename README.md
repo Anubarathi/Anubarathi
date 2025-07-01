@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there! I'm Anubarathi M
 
-<!--
-**Anubarathi/Anubarathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about learning and exploring new technologies.
 
-Here are some ideas to get you started:
+  About Me
+  
+- I’m a student currently pursuing Computer Science Final Year in PSGR Krishnammal college for women.
+- I’m interested in Software Development and Backend Technologies.
+- I'm learning Java and SQL.Currently focusing on strengthening my backend development and programming fundamentals.
+- I enjoy collaborating on tech projects and learning from others in the developer community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Skills
+-  Java  
+-  SQL  
+-  Quick Learner  
+-  Canva
+
+### 🤝 Let's Connect!
+- 📧 How to reach me: [anubarathimanikandan@gmail.com]
+ LinkedIn: [ https://www.linkedin.com/in/anubarathi-m-b5b8ab30b]
