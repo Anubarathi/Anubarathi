@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm passionate about learning and exploring new te
 
 ### 🤝 Let's Connect!
 - 📧 How to reach me: [anubarathimanikandan@gmail.com]
- LinkedIn: [ https://www.linkedin.com/in/anubarathi-m-b5b8ab30b]
+ LinkedIn: https://www.linkedin.com/in/anubarathi
